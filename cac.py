@@ -1,1 +1,0 @@
-print("Hello Hao A Du Du Khỏe Không Du")\nPprint("1234")
