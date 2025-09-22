@@ -95,7 +95,7 @@ def menu_banner():
     panel = Panel(
         Align.center(table),
         title=banner,
-        border_style="#ADFF2F",
+        border_style="#FFFFFF",
         padding=(1, 2)
     )
 
