@@ -32,7 +32,7 @@ def menu_banner():
         title=gradient_text("Chọn chế độ OBF", "#FF1493", "#00FFFF"),
         show_header=True,
         header_style="bold cyan",
-        border_style="#C0FF3E"
+        border_style="#FFFFFF"
     )
 
     table.add_column("STT", justify="center")
@@ -95,7 +95,7 @@ def menu_banner():
     panel = Panel(
         Align.center(table),
         title=banner,
-        border_style="#FFFFFF",
+        border_style="#00FFFF",
         padding=(1, 2)
     )
 
