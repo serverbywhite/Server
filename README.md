@@ -23,10 +23,10 @@ Tài liệu này là Giấy phép Sử dụng Phần mềm Pyshadow (**"Công c�
 
      - **a**. Sử dụng **Trái phép**: Sử dụng **công cụ** vào bất kỳ mục đích nào cho công cụ/hoạt động trái phép, bất hợp pháp, độc hại hoặc **vi phạm pháp luật hiện hành**.
      - **b**. Phân phối **Mã độc**: Sử dụng **công cụ** để tạo, chia sẻ, phân phối hoặc quảng bá mã độc hại (malware), virus, trojan, hoặc bất kỳ phần mềm gây hại nào khác.
-     - **c**. **Lạm dụng**: Cố ý sử dụng **công cụ** sai mục đích, gây hại, hoặc làm tổn thất đến danh tiếng, tài sản của Chủ sở hữu hoặc bên thứ ba.
+     - **c**. **Lạm dụng**: Cố ý sử dụng ```**công cụ**``` sai mục đích, gây hại, hoặc làm tổn thất đến danh tiếng, tài sản của Chủ sở hữu hoặc bên thứ ba.
 
 **5. TỪ CHỐI TRÁCH NHIỆM**
  - Tự Chịu Trách Nhiệm: Người dùng hoàn toàn tự chịu trách nhiệm đối với mọi hậu quả, tổn thất hoặc trách nhiệm pháp lý phát sinh từ việc cố tình hoặc vô ý sử dụng sai mục đích hoặc vi phạm bất kỳ điều khoản nào của Giấy phép này. Chủ sở hữu **công cụ** (***PyMaKaizu***) sẽ không chịu bất kỳ trách nhiệm pháp lý nào liên quan đến việc lạm dụng hoặc sử dụng **công cụ** vào mục đích bất hợp pháp của Người dùng.
 
 **6. HIỆU LỰC VÀ CHẤM DỨT**
-~~~~ Giấy phép này có hiệu lực ngay khi Người dùng bắt đầu truy cập hoặc sử dụng **công cụ**. Chủ sở hữu có quyền chấm dứt Giấy phép ngay lập tức nếu Người dùng vi phạm bất kỳ điều khoản nào.~~~~
+ - Giấy phép này có hiệu lực ngay khi Người dùng bắt đầu truy cập hoặc sử dụng **công cụ**. Chủ sở hữu có quyền chấm dứt Giấy phép ngay lập tức nếu Người dùng vi phạm bất kỳ điều khoản nào.
