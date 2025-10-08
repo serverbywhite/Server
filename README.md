@@ -4,13 +4,13 @@
 
 Tài liệu này là Giấy phép Sử dụng Phần mềm Pyshadow (**"Công cụ"**). Bằng việc truy cập, tải xuống hoặc sử dụng Công cụ, Người dùng được xem là đã chấp nhận và đồng ý tuân thủ tất cả các điều khoản và điều kiện được nêu rõ dưới đây. **PyMaKaizu** là Chủ sở hữu và giữ toàn bộ quyền sở hữu trí tuệ đối với Công cụ này.
 
-````**1. ĐIỀU KHOẢN CHUNG**````
- - Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).
+**1. ĐIỀU KHOẢN CHUNG**
+ ```- Giấy phép này áp dụng cho bất kỳ cá nhân hoặc tổ chức nào (gọi chung là **"Người dùng"**) truy cập, tải xuống hoặc sử dụng mã nguồn/công cụ mang tên Pyshadow (gọi tắt là **"Công cụ"**).```
 
 **2. QUYỀN SỞ HỮU TRÍ TUỆ VÀ BẢN QUYỀN**
- - **a**. Quyền Sở hữu: ***PyMaKaizu*** là chủ sở hữu duy nhất của **công cụ**, bao gồm toàn bộ **mã nguồn**, thiết kế và tài liệu liên quan.
+ ```- **a**. Quyền Sở hữu: ***PyMaKaizu*** là chủ sở hữu duy nhất của **công cụ**, bao gồm toàn bộ **mã nguồn**, thiết kế và tài liệu liên quan.
  - **b**. Cấm Sao chép: Cấm tuyệt đối mọi hành vi **sao chép**, **tái bản** (**reproduction**) hoặc phân phối lại **công cụ** dưới bất kỳ hình thức nào mà không có sự **cho phép bằng văn bản từ Chủ sở hữu**.
- - **c**. Cấm Đánh cắp Mã nguồn: Nghiêm cấm mọi hành vi **trích xuất**, **đánh cắp**, **sao chép** hoặc phổ biến bất kỳ phần nào của mã nguồn gốc của **công cụ**.
+ - **c**. Cấm Đánh cắp Mã nguồn: Nghiêm cấm mọi hành vi **trích xuất**, **đánh cắp**, **sao chép** hoặc phổ biến bất kỳ phần nào của mã nguồn gốc của **công cụ**.```
 
 **3. QUYỀN CỦA NGƯỜI DÙNG**
 - **Người dùng được quyền:**
