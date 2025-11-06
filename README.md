@@ -13,4 +13,4 @@
 
  ## Kết 
  - Chúng tao tạo ra mã hóa không phải để mấy con dog dùng vào **Malware**. Nếu mấy con dog mà **Malware** thì đi dùng của thằng khác nhé bớt vạ lây bọn anh mệt lắm.
- - 
+ - À **Repo** này chỉ có obf thôi nhé không có mã hóa đâu.
